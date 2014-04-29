@@ -1,0 +1,7 @@
+[
+	{ "keys": ["alt+f"], "command": "goto_definition" },
+	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+    { "keys": ["ctrl+shift+alt+t"], "command": "reopen_last_file" },
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+]
