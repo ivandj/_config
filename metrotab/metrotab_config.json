@@ -1,0 +1,20 @@
+{
+  "instalado": "true",
+  "bloques_info": "{\"social\":[240,240],\"group_1\":[240,240],\"group_2\":[240,240]}",
+  "apar_bgcolor": "rgb(0,58,129);rgb(0,187,255);rgb(0,41,91);rgb(34,134,170);213;196;213;196;213;196;213;196;213;196",
+  "apar_bgimg": "/img/bgdna.svg",
+  "livet_clima_ubic": "/q/zmw:20001.1.99999",
+  "livet_da_include": null,
+  "livet_zonahora": "[{\"pais\":\"US\",\"lugar\":\"New York\",\"offnor\":\"-5.0\",\"offdst\":\"-4.0\",\"dston\":\"true\"}]",
+  "apar_usuariobig": "Ivan Djordjevic",
+  "apar_usuariosmall": "Nickname",
+  "apar_animarapertura": "true",
+  "apar_animartiles": "true",
+  "apar_parallaxbg": "true",
+  "apar_newtabh1": "new tab",
+  "apar_miniscrollbar": "true",
+  "livet_tiempo": "6",
+  "livet_clima_busubic": "Washington, District of Columbia",
+  "livet_climasist": "false",
+  "opcional_pcrnum": "15"
+}
