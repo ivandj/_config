@@ -53,6 +53,7 @@
 	"overlay_scroll_bars": "enabled",
 	"remember_open_files": true,
 	"remember_open_folders": true,
+	"rulers": [80],
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"scroll_speed": 1,
