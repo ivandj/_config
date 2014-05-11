@@ -12,6 +12,9 @@ eval "$(rbenv init -)"
     alias md='mkdir $1'
     alias cls='clear'
     alias godev='cd /Applications/XAMPP/xamppfiles/htdocs/'
+    alias godoc='cd /Users/idj/\@doc'
+    alias godown='cd /Users/idj/ivan/~\ down'
+    alias gostp='cd /Users/idj/Library/Application\ Support/Sublime\ Text\ 3/Packages'
 
     alias sublime='open /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl $1'
 
