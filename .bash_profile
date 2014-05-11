@@ -11,6 +11,7 @@ eval "$(rbenv init -)"
     alias lsa='ls -GFh -all'
     alias md='mkdir $1'
     alias cls='clear'
+    alias godev='cd /Applications/XAMPP/xamppfiles/htdocs/'
 
     alias sublime='open /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl $1'
 
