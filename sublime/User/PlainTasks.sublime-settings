@@ -4,3 +4,11 @@
     "color_scheme": "Packages/PlainTasks/tasks-dark.hidden-tmTheme"
     //"color_scheme": "Packages/PlainTasks/tasks.hidden-tmTheme"
 }
+
+{
+    "open_tasks_bullet": "☐",
+    "done_tasks_bullet": "✔",
+    "font_size": 10,
+    "font_face": "Droid Sans Mono",
+    "color_scheme": "Packages/PlainTasks/tasks-dark2.hidden-tmTheme"
+}
