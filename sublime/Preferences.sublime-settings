@@ -44,6 +44,7 @@
 	],
 	"font_face": "Envy Code R",
 	"font_size": 13,
+	//"font_size": 10,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
