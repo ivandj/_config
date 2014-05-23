@@ -1,0 +1,67 @@
+a {
+  color: #7cb970;
+}
+
+body {
+  white-space: pre;
+  font-family: monospace;
+  font-size: 1em;
+  background: #223;
+  color: #ddd;
+}
+ 
+.property {
+  font-weight: normal;
+}
+ 
+.type-null {
+  color: #ff5b5b;
+}
+ 
+.type-boolean {
+  color: #62dea2;
+}
+ 
+.type-number {
+  color: #9eacff;
+}
+ 
+.type-string {
+  color: #f5f47e;
+}
+
+.callback-function {
+  color: lightblue;
+}
+ 
+.collapser:after {
+  content: "▼";
+}
+ 
+.collapsed > .collapser:after {
+  content: "✚";
+}
+ 
+.ellipsis:after {
+  content: " ... ";
+}
+ 
+.collapsible {
+  margin-left: 2em;
+}
+
+.hoverable {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 6px;
+  padding-right: 6px;
+  border-radius:8px;
+}
+ 
+.hovered {
+}
+ 
+.collapser {
+  padding-right: 6px;
+  padding-left: 6px;
+}
