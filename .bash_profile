@@ -18,6 +18,7 @@ eval "$(rbenv init -)"
     alias gaa='git add -f --all && echo "git add -f --all"'
     alias gpom='echo "git push -u origin master" && git push -u origin master'
     alias glog='git log --graph --pretty=format:"%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset" --abbrev-commit --date=relative'
+    alias glog2='git log --decorate --stat --graph --pretty=format:"%d %Cgreen%h%Creset (%ar - %Cred%an%Creset), %s%n"'
     alias gcontrib='git shortlog -sn --no-merges'
 
     alias sublime='open /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl $1'
