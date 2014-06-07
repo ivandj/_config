@@ -17,7 +17,7 @@ eval "$(rbenv init -)"
     alias gostp='cd /Users/idj/Library/Application\ Support/Sublime\ Text\ 3/Packages'
     alias gaa='git add -f --all && echo "git add -f --all"'
     alias gpom='echo "git push -u origin master" && git push -u origin master'
-    alias gs='git status -s -b --untracked-files=all'
+    alias gs='git status -s -b --untracked-files=all --ignored'
     alias gl='git log --graph --pretty=format:"%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset" --abbrev-commit --date=relative'
     alias gl2='git log --decorate --stat --graph --pretty=format:"%d %Cgreen%h%Creset (%ar - %Cgreen%an%Creset), %s%n"'
 
