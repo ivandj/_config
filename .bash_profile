@@ -3,6 +3,9 @@
 # Customize to your needs...
 export PATH=/usr/local/git/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:$PATH
 export PATH="$HOME/.rbenv/bin:$PATH"
+export PATH=/usr/local/bin:$PATH
+export PATH=/usr/local/sbin:$PATH
+
 eval "$(rbenv init -)"
 
     export CLICOLOR=1
@@ -40,7 +43,5 @@ GIT_PS1_SHOWDIRTYSTATE="true"
 source /usr/local/git/contrib/completion/git-prompt.sh
 
 export PROMPT_COMMAND="PS1=\"\n\[\033[0;92m\]\${color_start}\${color_bg_blue}\${color_end}\u@\h \[\033[0;97m\][\w] \[\033[0;94m\]<\$(__git_ps1 \"%s\")>\[\033[0;97m\]\${color_reset}\n> \""
-export PATH=/usr/local/bin:$PATH
-export PATH=/usr/local/sbin:$PATH
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
