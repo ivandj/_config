@@ -43,10 +43,10 @@
 		"site"
 	],
     //"font_face": "Envy Code R",
-    "font_face": "m+ 1m",
+    "font_face": "m+ 1m medium",
     "font_size": 18,
     "line_padding_bottom": 0,
-    "line_padding_top": -4,
+    "line_padding_top": -6,
     "gutter": true,
     "highlight_line": true,
     "highlight_modified_tabs": true,
