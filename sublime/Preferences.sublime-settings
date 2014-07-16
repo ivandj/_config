@@ -44,7 +44,7 @@
 	],
     //"font_face": "Envy Code R",
     "font_face": "m+ 1m medium",
-    "font_size": 18,
+    "font_size": 16,
     "line_padding_bottom": -3,
     "line_padding_top": -3,
     "gutter": true,
