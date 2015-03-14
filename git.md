@@ -1,3 +1,4 @@
+🌍
 git clone https://ivandj@github.com/[repo]
 
     git config --global user.name "John Doe"
