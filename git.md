@@ -28,6 +28,7 @@ search:
 set remote:
     git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git
     git remote set-url origin git@github.com:USERNAME/OTHERREPOSITORY.git
+    git remote set-url origin https://joe:password@github.com/ivandj/git.git
 
 branches
     # Start a new feature
