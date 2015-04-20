@@ -126,8 +126,8 @@ Setting:
     https://github.com/codefordc/guides/blob/master/learn-github/learn-github-osx.md
 
 
-History of the file:
-    git log --follow -p -- file
+    History of the file:
+        git log --follow -p -- file
 
 Links:
 
