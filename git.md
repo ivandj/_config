@@ -14,21 +14,21 @@ git clone https://ivandj@github.com/[repo]
 
     git push -u origin master
 
-revert:
-    git checkout <commit#> <file>
-    git revert <commit#>
+    revert:
+        git checkout <commit#> <file>
+        git revert <commit#>
 
-getting the update from remote:
-    git fetch origin master
+    getting the update from remote:
+        git fetch origin master
 
-search:
-    git log -S foo
-    https://robots.thoughtbot.com/code-sleuthing-with-git
+    search:
+        git log -S foo
+        https://robots.thoughtbot.com/code-sleuthing-with-git
 
-set remote:
-    git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git
-    git remote set-url origin git@github.com:USERNAME/OTHERREPOSITORY.git
-    git remote set-url origin https://joe:password@github.com/ivandj/git.git
+    set remote:
+        git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git
+        git remote set-url origin git@github.com:USERNAME/OTHERREPOSITORY.git
+        git remote set-url origin https://joe:password@github.com/ivandj/git.git
 
 branches
     # Start a new feature
