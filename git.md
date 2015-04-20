@@ -125,6 +125,10 @@ Setting:
     https://bitbucket.org/site/master/issue/3578/cannot-push-fatal-the-remote-end-hung-up
     https://github.com/codefordc/guides/blob/master/learn-github/learn-github-osx.md
 
+
+History of the file:
+    git log --follow -p -- file
+
 Links:
 
     tutorial
