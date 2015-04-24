@@ -17,7 +17,11 @@ git clone https://ivandj@github.com/[repo]
     revert:
         git checkout <commit#> <file>
         git revert <commit#>
-
+        
+    revert to remote origin master
+        git fetch origin
+        git reset --hard origin/master
+    
     getting the update from remote:
         git fetch origin master
 
