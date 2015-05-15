@@ -2,6 +2,7 @@ git clone https://ivandj@github.com/[repo]
 
     git config --global user.name "John Doe"
     git config --global user.email johndoe@example.com
+    git commit --amend --reset-author
 
     git init
     git status
